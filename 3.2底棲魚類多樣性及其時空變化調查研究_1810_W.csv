@@ -1,0 +1,87 @@
+﻿序號,年,月,日,時,航次代碼,測站,下網點緯度,下網點經度,起網點緯度,起網點經度,屬名,拉丁種名,學名,英文科名,中文科名,中文名稱,總數,總重(g),表水溫(℃),Sal(ppt),DO%,DO(mg/L),pH
+1,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Cynoglossus,bilineatus,Cynoglossus bilineatus,Cynoglossidae,舌鰨科,雙線舌鰨,2,385.2,29.6,27.4,104,7.91,8.1
+2,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Equulites,absconditus,Equulites absconditus,Leiognathidae,鰏科,秘馬鰏,356,575.0,29.6,27.4,104,7.91,8.1
+3,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Lagocephalus,lunaris,Lagocephalus lunaris,Tetraodontidae,四齒魨科,月尾兔頭魨,6,255.7,29.6,27.4,104,7.91,8.1
+4,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Lagocephalus,sceleratus,Lagocephalus sceleratus,Tetraodontidae,四齒魨科,圓斑兔頭魨,1,138.0,29.6,27.4,104,7.91,8.1
+5,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Liachirus,melanospilos,Liachirus melanospilos,Soleidae,鰨科,黑斑圓鱗鰨,3,38.4,29.6,27.4,104,7.91,8.1
+6,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Pennahia,pawak,Pennahia pawak,Sciaenidae,石首魚科,斑鰭白姑魚,5,184.6,29.6,27.4,104,7.91,8.1
+7,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Rhynchobatus,immaculatus,Rhynchobatus immaculatus,Rhynchobatidae,龍紋鱝科,無斑龍紋鱝,2,305.4,29.6,27.4,104,7.91,8.1
+8,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Saurida,tumbil,Saurida tumbil,Synodontidae,合齒魚科,多齒蛇鯔,10,156.7,29.6,27.4,104,7.91,8.1
+9,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,2,16.7,29.6,27.4,104,7.91,8.1
+10,2017,7,5,9,M-WF-1,FS20,N24°02.742,E120°16.717,N24°03.857,E120°17.298,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,22,141.8,29.6,27.4,104,7.91,8.1
+11,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Arius,spp.,Arius spp.,Ariidae,海鯰科,海鯰 spp.,2,936.7,30.1,33,104.8,7.91,8.08
+12,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Dasyatis,akajei,Dasyatis akajei,Dasyatidae,魟科,赤魟,1,1081.1,30.1,33,104.8,7.91,8.08
+13,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Dasyatis,zugei,Dasyatis zugei,Dasyatidae,魟科,尖嘴魟,1,448.4,30.1,33,104.8,7.91,8.08
+14,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Diodon,holocanthus,Diodon holocanthus,Diodontidae,二齒魨科,六斑二齒魨,2,298.7,30.1,33,104.8,7.91,8.08
+15,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Equulites,absconditus,Equulites absconditus,Leiognathidae,鰏科,秘馬鰏,4,5.6,30.1,33,104.8,7.91,8.08
+16,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Fistularia,petimba,Fistularia petimba,Fistulariidae,馬鞭魚科,鱗馬鞭魚,1,77.0,30.1,33,104.8,7.91,8.08
+17,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Lagocephalus,inermis,Lagocephalus inermis,Tetraodontidae,四齒魨科,黑鰓兔頭魨,1,282.5,30.1,33,104.8,7.91,8.08
+18,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Lagocephalus,lunaris,Lagocephalus lunaris,Tetraodontidae,四齒魨科,月尾兔頭魨,1,826.9,30.1,33,104.8,7.91,8.08
+19,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Suggrundus,meerdervoortii,Suggrundus meerdervoortii,Platycephalidae,牛尾魚科,大眼牛尾魚,1,73.7,30.1,33,104.8,7.91,8.08
+20,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Takifugu,oblongus,Takifugu oblongus,Tetraodontidae,四齒魨科,橫紋多紀魨,1,50.9,30.1,33,104.8,7.91,8.08
+21,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,3,7.8,30.1,33,104.8,7.91,8.08
+22,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Triacanthus,biaculeatus,Triacanthus biaculeatus,Triacanthidae,三棘魨科,雙棘三棘魨,26,2609.4,30.1,33,104.8,7.91,8.08
+23,2017,7,5,11,M-WF-1,FS40,N24°07.313,E120°00.156,N24°08.591,E120°00.525,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,19,106.1,30.1,33,104.8,7.91,8.08
+24,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Dasyatis,zugei,Dasyatis zugei,Dasyatidae,魟科,尖嘴魟,3,739.2,28.4,32.5,100.7,7.81,8.18
+25,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Equulites,elongatus,Equulites elongatus,Leiognathidae,鰏科,長身馬鰏,17,30.3,28.4,32.5,100.7,7.81,8.18
+26,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Neotrygon,kuhlii,Neotrygon kuhlii,Dasyatidae,魟科,古氏新魟,1,530.0,28.4,32.5,100.7,7.81,8.18
+27,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Pseudorhombus,cinnamoneus,Pseudorhombus cinnamoneus,Paralichthyidae,牙鮃科,檸檬斑鮃,1,151.6,28.4,32.5,100.7,7.81,8.18
+28,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Saurida,elongata,Saurida elongata,Synodontidae,合齒魚科,長體蛇鯔,1,62.5,28.4,32.5,100.7,7.81,8.18
+29,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Saurida,undosquamis,Saurida undosquamis,Synodontidae,合齒魚科,花斑蛇鯔,2,16.4,28.4,32.5,100.7,7.81,8.18
+30,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Sillago,japonica,Sillago japonica,Sillaginidae,沙鮻科,日本沙鮻,19,91.5,28.4,32.5,100.7,7.81,8.18
+31,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Tarphops,oligolepis,Tarphops oligolepis,Paralichthyidae,牙鮃科,高體大鱗鮃,1,2.9,28.4,32.5,100.7,7.81,8.18
+32,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,2,4.0,28.4,32.5,100.7,7.81,8.18
+33,2017,9,12,7,M-WF-2,FS40,N24°06.846,E120°00.040,N24°05.624,E119°59.774,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,12,21.5,28.4,32.5,100.7,7.81,8.18
+34,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944, Carangoides,hedlandensis,Carangoides hedlandensis,Carangidae,鰺科,海蘭德若鰺,1,109.6,29.7,32.8,103.1,7.84,8.11
+35,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944, Pisodonophis,cancrivorus,Pisodonophis cancrivorus,Ophichthidae,蛇鰻科,食蟹荳齒蛇鰻,1,124.1,29.7,32.8,103.1,7.84,8.11
+36,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Alepes,djedaba,Alepes djedaba,Carangidae,鰺科,吉打副葉鰺,1,44.1,29.7,32.8,103.1,7.84,8.11
+37,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Cynoglossus,bilineatus,Cynoglossus bilineatus,Cynoglossidae,舌鰨科,雙線舌鰨,1,107.7,29.7,32.8,103.1,7.84,8.11
+38,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Ephippus,orbis,Ephippus orbis,Ephippidae,白鯧科,圓白鯧,14,644.2,29.7,32.8,103.1,7.84,8.11
+39,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Equulites,elongatus,Equulites elongatus,Leiognathidae,鰏科,長身馬鰏,3,5.8,29.7,32.8,103.1,7.84,8.11
+40,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Equulites,absconditus,Equulites absconditus,Leiognathidae,鰏科,秘馬鰏,87,711.2,29.7,32.8,103.1,7.84,8.11
+41,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Narcine,lingula,Narcine lingula,Narcinidae,雙鰭電鱝科,舌形雙鰭電鱝,2,613.1,29.7,32.8,103.1,7.84,8.11
+42,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Pennahia,pawak,Pennahia pawak,Sciaenidae,石首魚科,斑鰭白姑魚,22,387.2,29.7,32.8,103.1,7.84,8.11
+43,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Photopectoralis,bindus,Photopectoralis bindus,Leiognathidae,鰏科,黃斑光胸鰏,18,28.6,29.7,32.8,103.1,7.84,8.11
+44,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Saurida,elongata,Saurida elongata,Synodontidae,合齒魚科,長體蛇鯔,28,715.0,29.7,32.8,103.1,7.84,8.11
+45,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Saurida,undosquamis,Saurida undosquamis,Synodontidae,合齒魚科,花斑蛇鯔,10,101.0,29.7,32.8,103.1,7.84,8.11
+46,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Secutor,ruconius,Secutor ruconius,Leiognathidae,鰏科,仰口鰏,69,154.3,29.7,32.8,103.1,7.84,8.11
+47,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Sillago,sihama,Sillago sihama,Sillaginidae,沙鮻科,多鱗沙鮻,1,1.9,29.7,32.8,103.1,7.84,8.11
+48,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,8,59.5,29.7,32.8,103.1,7.84,8.11
+49,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Triacanthus,biaculeatus,Triacanthus biaculeatus,Triacanthidae,三棘魨科,雙棘三棘魨,1,34.2,29.7,32.8,103.1,7.84,8.11
+50,2017,9,12,9,M-WF-2,FS20,N24°02.684,E120°16.277,N24°03.929,E120°16.944,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,2,2.1,29.7,32.8,103.1,7.84,8.11
+51,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Arius,arius,Arius arius,Ariidae,海鯰科,絲鰭海鯰,5,1505.4,30.6,32.6,139,8.7,8.26
+52,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Bothidae,sp.,Bothidae sp.,Bothidae,鮃科,鮃科 sp.,1,1.007,30.6,32.6,139,8.7,8.26
+53,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Dasyatis,acutirostra,Dasyatis acutirostra,Dasyatidae,魟科,尖吻魟,2,66.881,30.6,32.6,139,8.7,8.26
+54,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Decapterus,maruadsi,Decapterus maruadsi,Carangidae,鰺科,藍圓鰺,7,591.683,30.6,32.6,139,8.7,8.26
+55,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Ephippus,orbis,Ephippus orbis,Ephippidae,白鯧科,圓白鯧,3,269.03,30.6,32.6,139,8.7,8.26
+56,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Equulites,absconditus,Equulites absconditus,Leiognathidae,鰏科,秘馬鰏,53,62.271,30.6,32.6,139,8.7,8.26
+57,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Parastromateus,niger,Parastromateus niger,Carangidae,鰺科,烏鯧,1,499.4,30.6,32.6,139,8.7,8.26
+58,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Rhynchobatus,australiae,Rhynchobatus australiae,Rhynchobatidae,龍紋鱝科,南方龍紋鱝,1,30050,30.6,32.6,139,8.7,8.26
+59,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Sillago,sihama,Sillago sihama,Sillaginidae,沙鮻科,多鱗沙鮻,15,17.109,30.6,32.6,139,8.7,8.26
+60,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Suggrundus,meerdervoortii,Suggrundus meerdervoortii,Platycephalidae,牛尾魚科,大眼牛尾魚,1,10.19,30.6,32.6,139,8.7,8.26
+61,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Terapon,theraps,Terapon theraps,Terapontidae,鯻科,條紋鯻,8,1130.43,30.6,32.6,139,8.7,8.26
+62,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,1,36.12,30.6,32.6,139,8.7,8.26
+63,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Triacanthus,biaculeatus,Triacanthus biaculeatus,Triacanthidae,三棘魨科,雙棘三棘魨,1,145.75,30.6,32.6,139,8.7,8.26
+64,2018,6,27,11,M-WF-4,FS40,N24°07.835,E120°00.374,N24°09.228,E120°00.728,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,34,236.372,30.6,32.6,139,8.7,8.26
+65,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Alepes,kleinii,Alepes kleinii,Carangidae,鰺科,克氏副葉鰺,4,132.061,29.3,33.3,107.2,6.82,8.19
+66,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Arius,arius,Arius arius,Ariidae,海鯰科,絲鰭海鯰,3,84.346,29.3,33.3,107.2,6.82,8.19
+67,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Diagramma,pictum,Diagramma pictum,Haemulidae,石鱸科,密點少棘胡椒鯛,4,61.627,29.3,33.3,107.2,6.82,8.19
+68,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Drepane,punctata,Drepane punctata,Drepaneidae,雞籠鯧科,斑點雞籠鯧,1,1.212,29.3,33.3,107.2,6.82,8.19
+69,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Ephippus,orbis,Ephippus orbis,Ephippidae,白鯧科,圓白鯧,1,5.532,29.3,33.3,107.2,6.82,8.19
+70,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Equulites,absconditus,Equulites absconditus,Leiognathidae,鰏科,秘馬鰏,1894,1686.353,29.3,33.3,107.2,6.82,8.19
+71,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Eubleekeria,splendens,Eubleekeria splendens,Leiognathidae,鰏科,黑邊布氏鰏,1,4.419,29.3,33.3,107.2,6.82,8.19
+72,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Gerres,erythrourus,Gerres erythrourus,Gerreidae,鑽嘴魚科,短鑽嘴魚,2,55.547,29.3,33.3,107.2,6.82,8.19
+73,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Gobiidae,sp.,Gobiidae sp.,Gobiidae,鰕虎科,鰕虎科 sp.,1,0.651,29.3,33.3,107.2,6.82,8.19
+74,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Johnius,sp.,Johnius sp.,Sciaenidae,石首魚科,叫姑魚屬 sp.,2,145.72,29.3,33.3,107.2,6.82,8.19
+75,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Lagocephalus,lunaris,Lagocephalus lunaris,Tetraodontidae,四齒魨科,月尾兔頭魨,4,149.216,29.3,33.3,107.2,6.82,8.19
+76,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Leiognathus,equulus,Leiognathus equulus,Leiognathidae,鰏科,短棘鰏,2,67.894,29.3,33.3,107.2,6.82,8.19
+77,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Muraenesox,cinereus,Muraenesox cinereus,Muraenesocidae,海鰻科,灰海鰻,1,136.53,29.3,33.3,107.2,6.82,8.19
+78,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Nemipterus,peronii,Nemipterus peronii,Nemipteridae,金線魚科,裴氏金線魚,1,8.458,29.3,33.3,107.2,6.82,8.19
+79,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Pennahia,macrocephalus,Pennahia macrocephalus,Sciaenidae,石首魚科,大頭白姑魚,1,36.2,29.3,33.3,107.2,6.82,8.19
+80,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Plectorhinchus,cinctus,Plectorhinchus cinctus,Haemulidae,石鱸科,花尾胡椒鯛,1,25.854,29.3,33.3,107.2,6.82,8.19
+81,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Pomadasys,kaakan,Pomadasys kaakan,Haemulidae,石鱸科,星雞魚,3,433.7,29.3,33.3,107.2,6.82,8.19
+82,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Saurida,elongata,Saurida elongata,Synodontidae,合齒魚科,長體蛇鯔,27,812.993,29.3,33.3,107.2,6.82,8.19
+83,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Sciaenidae,spp. (Ju),Sciaenidae spp. (Ju),Sciaenidae,石首魚科,石首魚科幼魚,1,1.66,29.3,33.3,107.2,6.82,8.19
+84,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Secutor,ruconius,Secutor ruconius,Leiognathidae,鰏科,仰口鰏,7,6.673,29.3,33.3,107.2,6.82,8.19
+85,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Trachinocephalus,myops,Trachinocephalus myops,Synodontidae,合齒魚科,準大頭狗母魚,11,70.75,29.3,33.3,107.2,6.82,8.19
+86,2018,6,27,14,M-WF-4,FS20,N24°01.935,E120°16.866,N24°02.223,E120°18.050,Upeneus,japonicus,Upeneus japonicus,Mullidae,鬚鯛科,日本緋鯉,6,6.002,29.3,33.3,107.2,6.82,8.19
