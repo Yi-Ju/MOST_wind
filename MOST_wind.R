@@ -367,4 +367,89 @@ fwrite(data_3.3_2, '/Users/yiju/GoogleDrive/MOST_wind/3.3 工作魚礁列表_181
 
 
 
+### 3.1 底棲無脊椎生物17-18_1810_W ============
+# 經緯度和時間 
+
+data_3.1 <- fread('/Users/yiju/GoogleDrive/MOST_wind/3.1底棲無脊椎生物17-18_1810_W.csv', na.strings = c(''))
+
+summary(data_3.1)
+
+
+
+# Date and Time
+data_3.1$年 <- as.character(data_3.1$年)
+data_3.1$月 <- as.character(data_3.1$月)
+data_3.1$日 <- as.character(data_3.1$日)
+data_3.1$時 <- as.character(data_3.1$時)
+
+data_3.1$月 <- str_pad(data_3.1$月, width = 2, side = 'left', pad = '0')
+data_3.1$日 <- str_pad(data_3.1$日, width = 2, side = 'left', pad = '0')
+data_3.1$時 <- str_pad(data_3.1$時, width = 2, side = 'left', pad = '0')
+
+
+data_3.1$Date <- paste(data_3.1$年, data_3.1$月, data_3.1$日, sep = '-')
+data_3.1$Time <- paste(data_3.1$時,'00', '00' ,sep = ':')
+
+
+# 4 lat and long
+data_3.1$下網點緯度 <- as.character(data_3.1$下網點緯度)
+data_3.1$下網點經度 <- as.character(data_3.1$下網點經度)
+data_3.1$起網點緯度 <- as.character(data_3.1$起網點緯度)
+data_3.1$起網點經度 <- as.character(data_3.1$起網點經度)
+
+
+
+# 下網點Lat
+DD7 <- substr(data_3.1$下網點緯度, 2, 3)
+MM.MMM7 <- substr(data_3.1$下網點緯度, 5, 10)
+
+Deg_dec_Min7 <- paste(DD7, MM.MMM7, sep = ' ')
+
+data_3.1$下網點Lat <- conv_unit(Deg_dec_Min7, from = 'deg_dec_min', to = 'dec_deg')
+
+
+# 下網點Long
+DD8 <- substr(data_3.1$下網點經度, 2, 4)
+MM.MMM8 <- substr(data_3.1$下網點經度, 6, 11)
+
+Deg_dec_Min8 <- paste(DD8, MM.MMM8, sep = ' ')
+
+data_3.1$下網點Long <- conv_unit(Deg_dec_Min8, from = 'deg_dec_min', to = 'dec_deg')
+
+
+
+# 起網點Lat
+DD9 <- substr(data_3.1$起網點緯度, 2, 3)
+MM.MMM9 <- substr(data_3.1$起網點緯度, 5, 10)
+
+Deg_dec_Min9 <- paste(DD9, MM.MMM9, sep = ' ')
+
+data_3.1$起網點Lat <- conv_unit(Deg_dec_Min9, from = 'deg_dec_min', to = 'dec_deg')
+
+# 起網點Long
+DD10 <- substr(data_3.1$起網點經度, 2, 4)
+MM.MMM10 <- substr(data_3.1$起網點經度, 6, 11)
+
+Deg_dec_Min10 <- paste(DD10, MM.MMM10, sep = ' ')
+
+data_3.1$起網點Long <- conv_unit(Deg_dec_Min10, from = 'deg_dec_min', to = 'dec_deg')
+
+
+
+fwrite(data_3.1, '/Users/yiju/GoogleDrive/MOST_wind/3.1底棲無脊椎生物17-18_1810_W_2.csv')
+
+
+# finished on Oct. 30 16:18
+
+
+
+
+
+
+
+
+
+
+
+
 
